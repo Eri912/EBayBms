@@ -1,0 +1,33 @@
+/* 这是全局的css样式 */
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  /* min-width: 1336px; */
+}
+.el-breadcrumb {
+  margin-bottom: 15px !important;
+}
+.el-card {
+  box-shadow: 0, 1px, 1px, rgba(0, 0, 0, 0.15) !important;
+}
+.el-pagination {
+  margin-top: 10px;
+}
+.el-table {
+  margin-top: 10px;
+}
+.el-cascader-menu {
+  height: 300px;
+}
+.el-steps {
+  margin: 15px 0;
+}
+.el-step__title {
+  font-size: 12px;
+}
+.ql-editor {
+  min-height: 300px;
+}
